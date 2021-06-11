@@ -2,12 +2,17 @@
 ***
 
 ### ![Ansible](img/ansible_logo_.png) Ansible
-+ Ansible > [website](https://www.ansible.com/)
++ Ansible. Provisioning, configuration management, and application-deployment tool > [website](https://www.ansible.com/)
 + Ansible для сетевых инженеров > [website](https://ansible-for-network-engineers.readthedocs.io/ru/latest)
 
 
 ### ![Docker](img/docker_logo_.png) Docker
-+ Docker > [website](https://www.docker.com/)
++ Docker. OS-level virtualization to deliver software in containers > [website](https://www.docker.com/)
+    * DockerHub > [website](https://hub.docker.com/)
 + Полное практическое руководство по Docker: с нуля до кластера на AWS > [Habr](https://habr.com/ru/post/310460/)
+
+
+### Other
++ Как установить и настроить GitLab в Ubuntu 18.04/20.04 > [website](https://blog.sedicomm.com/2021/05/28/kak-ustanovit-i-nastroit-gitlab-v-ubuntu-18-04-20-04/)
 
 ***
