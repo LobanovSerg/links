@@ -6,7 +6,7 @@
 ### Операционные системы
 
 + ![CentOS](img/centos_logo_.png) CentOS > [website](https://www.centos.org/)
-+ ![Ubuntu](img/ubuntu_logo_.png) Ubuntu > [website](https://www.python.org/)
++ ![Ubuntu](img/ubuntu_logo_.png) Ubuntu > [website](https://ubuntu.com/)
 + ![FreeBSD](img/freebsd_logo_.png) FreeBSD > [website](https://www.freebsd.org/)
 
 ### Системное администрирование
