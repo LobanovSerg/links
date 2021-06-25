@@ -11,6 +11,7 @@
 ### ![Docker](img/docker_logo_.png) Docker
 + Docker. OS-level virtualization to deliver software in containers > [website](https://www.docker.com/)
     * DockerHub > [website](https://hub.docker.com/)
++ Изучаем Docker > [Habr](https://habr.com/ru/company/ruvds/blog/438796/)
 + Полное практическое руководство по Docker: с нуля до кластера на AWS > [Habr](https://habr.com/ru/post/310460/)
 
 
