@@ -4,11 +4,11 @@
 
 + [DevOps](devops.md)
 + [Education](education.md)
-+ [IT Security](itsecurity.md)
-+ [Manuals & online tools](manuals.md)
-+ [Programming](program.md)
++ [IT Security](itsecurity.md)(empty)
++ [Manuals & online tools](manuals.md)(empty)
++ [Programming](program.md)(empty)
 + [SysAdmin](sysadmin.md)
-+ [YouTube](youtube.md)
-+ [Other](other.md)
++ [YouTube](youtube.md)(empty)
++ [Other](other.md)(empty)
 
 ***
