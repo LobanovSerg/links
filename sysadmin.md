@@ -1,4 +1,4 @@
-[Main](README.md) | [DevOps](devops.md) | [Education](education.md) | __SysAdmin__
+[Main](README.md) | [DevOps](devops.md) | [Education](education.md) | [IT Security](itsecurity.md) | [Manuals & online tools](manuals.md) | [Programming](program.md) | __SysAdmin__ | [YouTube](youtube.md) | [Other](other.md)
 
 #### Администрирование
 ***
@@ -12,6 +12,7 @@
 ### Системное администрирование
 
 + ServerAdmin > [website](https://serveradmin.ru/)
+
 
 ### Сети
 
@@ -27,15 +28,17 @@
     * Маршрутизация: статическая и динамическая на примере RIP, OSPF и EIGRP > [Habr](https://habr.com/ru/post/335090/)
 + Сети для самых маленьких > [linkmeup](https://linkmeup.ru/blog/11.html)
 
+
 ### Web-servers
 
 + Nginx:
     * Nginx. Руководство для начинающих > [nginx.org](https://nginx.org/ru/docs/beginners_guide.html)
     * Алгоритм выбора location в Nginx > [Habr](https://habr.com/ru/post/348206/)
 
+
 ### Виртуализация
 
-+ VMGU.RU > [website](https://www.vmgu.ru/)
++ vmGU RU. Виртуализация vSphere, Hyper-V, Xen и Red Hat > [website](https://www.vmgu.ru/)
 + Виртуализация > [Habr](https://habr.com/ru/hub/virtualization/)
 + VMware > [website](https://www.vmware.com/)
 

@@ -1,4 +1,4 @@
-[Main](README.md) | [DevOps](devops.md) | __Education__ | [SysAdmin](sysadmin.md)
+[Main](README.md) | [DevOps](devops.md) | __Education__ | [IT Security](itsecurity.md) | [Manuals & online tools](manuals.md) | [Programming](program.md) | [SysAdmin](sysadmin.md) | [YouTube](youtube.md) | [Other](other.md)
 
 #### Education
 ***
