@@ -18,6 +18,8 @@
 
 #### ![Kubernetes](img/kubernetes_logo_.png) Kubernetes
 + Kubernetes. Automated container deployment, scaling, and management > [website](https://kubernetes.io/)
+    * Документация по Kubernetes > [website](https://kubernetes.io/ru/docs/home/)
++ LENS. The Kubernetes IDE > [website](https://k8slens.dev/)
 
 
 ### Other
