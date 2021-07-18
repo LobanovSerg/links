@@ -8,6 +8,7 @@
 онлайн-курсов > [website](https://stepik.org/)
 + __Cisco Networking Academy__. Global IT and cybersecurity education program > [website](https://www.netacad.com/)
 + __SEDICOMM__. Академия Cisco, Linux Professional Institute на платформе SEDICOMM University > [website](https://edu-cisco.org/)
++ __Microsoft Learn__. Найдите свою схему обучения > [website](https://docs.microsoft.com/ru-ru/learn/)
 + __Coursera__. Global online learning platform > [website](https://www.coursera.org/)
 + __edX__. Transformation through education > [website](https://www.edx.org/)
 + __Hexlet__. Практические курсы по программированию > [website](https://hexlet.io/)
