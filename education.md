@@ -14,6 +14,7 @@
 + __Hexlet__. Практические курсы по программированию > [website](https://hexlet.io/)
 + __JetBrains__. Learn to program by creating working applications > [website](https://www.jetbrains.com/academy/)
 + __Ravesli__. Уроки программирования для начинающих и более продвинутых пользователей > [website](https://ravesli.com/)
++ __СлЁрм__. Учебный центр > [website](https://slurm.io/)
 
 
 ### Interactive tutorials
